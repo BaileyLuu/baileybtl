@@ -5,9 +5,6 @@ export const sql = postgres(process.env.POSTGRES_URL, {
 });
 
 const nextConfig = {
-  experimental: {
-    ppr: false,
-  },
   logging: {
     fetches: {
       fullUrl: true,
