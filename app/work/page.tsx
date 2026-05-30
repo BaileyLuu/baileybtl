@@ -1,17 +1,25 @@
 const experiences = [
   {
-    year: '2023 - Present',
+    year: '2025 - Present',
+    company: 'AI-Web Application Developer at SRS Consulting Engineers Inc.',
+    location: 'Vaughan, Canada',
+    period: 'September 2025 - Present',
+    description: `Building PositiBAI that implements Positive Building Framework`,
+    url: 'https://srscanada.com/'
+  },
+  {
+    year: '2023 - 2025',
     company: 'Research Assistant at York University',
     location: 'Toronto, Canada',
-    period: 'June 2023 - Present',
-    description: `I redesigned the UI and developed a Social Media Identity Resolution application using Tkinter, integrating multiple social media APIs (Instagram, Facebook, TikTok) and facial recognition techniques to enhance the Anti-Money Laundering (AML) Know Your Customer (KYC) process.`,
+    period: 'June 2023 - October 2025',
+    description: `Designed and developed a Social Media Identity Resolution application using Tkinter to support Anti-Money Laundering (AML) and Know Your Customer (KYC) investigations. Integrated multiple social media APIs, including Instagram, Facebook, and TikTok, alongside facial recognition technologies to help identify and correlate online identities across platforms.`,
     url: 'https://www.yorku.ca'
   },
   {
-    year: '2023 - Present',
+    year: '2023 - 2024',
     company: 'Organizer at KubeHuddle Canada',
     location: 'Toronto, Canada',
-    period: 'November 2023 - Present',
+    period: 'November 2023 - November 2024',
     description: `KubeHuddle is the first professional event which I was honoured to be part as an organizer (as I was an attendee in 2023).
     
     With countless hours of planning (logistics, marketing, techical) and constant ideation/communication/execution/collaboration with amazing team, we were able to bring 200+ attendees networking, speakers sharing their insights, and sponsors showcasing their products! 
@@ -28,9 +36,9 @@ const experiences = [
     company: 'Organizer/Logistics Executive at ElleHacks',
     location: 'Toronto, Canada',
     period: 'September 2021 - February 2023',
-    description: `As a Logistics Executive, I was responsible for developing event schedule sand judging criterias, designing swag bags, and creating informational packages for volunteers, hackers, mentors, judges, and sponsors to ensure everyone understood their roles and responsibilities.
+    description: `As a Logistics Executive, I was responsible for developing event schedules and definingjudging criterias, designing participants materials, and preparing operational resources for volunteers, mentors, judges, sponsors, and attendees.
 
-    Aside from the logistics, I also worked on ElleHacks informational Discord Bot to keep track of attendees' check-ins, automatically assigned roles, and get the event information (e.g schedules/faqs). The bot helped to reduce manual work.  
+    Aside from the logistics, I also worked on ElleHacks informational Discord Bot that automated attendee check-ins, role assignments, and access to event information, improving the overall participant experience and reducing manual administrative work.  
     `,
     url: 'https://ellehacks.com'
   }

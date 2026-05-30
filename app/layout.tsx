@@ -7,16 +7,16 @@ import { Analytics } from '@vercel/analytics/react';
 import { SpeedInsights } from '@vercel/speed-insights/next';
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://bailey-nextjs-portfolio.vercel.app'),
+  metadataBase: new URL('https://baileyluu.vercel.app/'),
   title: {
     default: 'Bailey Luu',
     template: '%s | Bailey Luu',
   },
-  description: 'Developer',
+  description: 'Aspring Developer & Cybersecurity Analyst',
   openGraph: {
     title: 'Bailey Luu',
-    description: 'Developer',
-    url: 'https://bailey-nextjs-portfolio.vercel.app',
+    description: 'Aspring Developer & Cybersecurity Analyst',
+    url: 'https://baileyluu.vercel.app/',
     siteName: 'Bailey Luu',
     locale: 'en_US',
     type: 'website',

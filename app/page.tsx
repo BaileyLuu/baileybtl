@@ -39,7 +39,7 @@ export default function Page() {
     </section>
     <section >
       <p className="prose prose-neutral dark:prose-invert">
-        I'm a developer and currently a Research Assistant at York University.
+        I'm a developer and an aspiring cybersecurity analyst.
       </p>
 
       <div className="prose prose-neutral dark:prose-invert">
